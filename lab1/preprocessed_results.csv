@@ -1,0 +1,258 @@
+,number,verbose,result
+0,1.01,Ok,+
+1,1.02,False,-
+2,1.03,Ok,+
+3,1.04,False,-
+4,1.05,Ok,+
+5,1.06,False,-
+6,1.07,Ok,+
+7,1.08,False,-
+8,1.09,Ok,+
+9,1.10,False,-
+10,1.11,Ok,+
+11,1.12,False,-
+12,1.13,Ok,+
+13,1.14,False,-
+14,1.15,Ok,+
+15,1.16,False,-
+16,1.17,Ok,+
+17,1.18,False,-
+18,1.19,Ok,+
+19,1.20,False,-
+20,1.21,Ok,+
+21,1.22,False,-
+22,1.23,Ok,+
+23,1.24,False,-
+24,2.02,False,Two or more data types in declaration of «Epsilon»
+25,2.03,Ok,-
+26,2.04,Two or more data types in declaration of,+
+27,2.05,"Ok, underflow (ошибка переполнения)",-
+28,2.06,"Ok, False",+
+29,2.07,Two or more data types in declaration of,+/-
+30,2.08,Two or more data types in declaration of,-
+31,2.09,Ничего не выдал,-
+32,2.10,Two or more data types in declaration of,-
+33,2.11,Two or more data types in declaration of,-
+34,2.12,Ничего не выдал,-
+35,2.13,Two or more data types in declaration of,-
+36,2.14,Two or more data types in declaration of,-
+37,2.15,"Ok, False",-
+38,2.16,Two or more data types in declaration of,+/-
+39,2.17,Two or more data types in declaration of,-
+40,2.18,Ничего не выдал,-
+41,2.19,Ничего не выдал,-
+42,2.20,Two or more data types in declaration of,-
+43,2.21,Two or more data types in declaration of,-
+44,2.22,Two or more data types in declaration of,-
+45,2.23,Two or more data types in declaration of,-
+46,2.24,Ничего не выдал,-
+47,2.25,Ничего не выдал,-
+48,2.26,Two or more data types in declaration of,-
+49,2.27,Two or more data types in declaration of,-
+50,2.28,Two or more data types in declaration of,-
+51,2.29,Two or more data types in declaration of,-
+52,2.30,"Ok, DDDD flat 52",-
+53,2.31,else,+
+54,2.32,Two or more data types in declaration of,-
+55,2.33,Two or more data types in declaration of,-
+56,2.34,False,-
+57,2.35,Two or more data types in declaration of,-
+58,3.01,Ok,+
+59,3.02,False,+
+60,3.03,False,+
+61,3.04,Undeclarator i,+
+62,3.05,Undeclarator i,+
+63,3.06,"Ошибка 1, y - undeclarator",+
+64,3.07,Two or more data types in declaration of ,-
+65,3.08,Undeclarator y,+
+66,3.09,Undeclarator y,+
+67,3.10,False,+
+68,3.11,Undeclarator i,+
+69,3.12,"Undeclarator ii, iii",-
+70,3.13,Ok,+
+71,3.14,Ok,+
+72,3.15,Ok(4),+
+73,3.16,"Ok, Ok",+
+74,3.17,"Ok, Ok",+
+75,3.18,"Ok, Ok",+
+76,3.19,"Ok, Ok",+
+77,3.20,"Ok, Ok",+
+78,3.21,"Warning: unused variable i, ii",+
+79,3.22,Ok(2),+
+80,3.23,False,-
+81,3.24,False,+/-
+82,4.02,Ошибка в объявлении float,Two or more data types in declaration of
+83,4.03,Two or more data types in declaration of ,-
+84,4.04,Two or more data types in declaration of ,-
+85,4.05,"Ошибка 1, Two or more data types in declaration of ",-
+86,4.06,Two or more data types in declaration of,-
+87,4.07,Two or more data types in declaration of,-
+88,4.08,Two or more data types in declaration of,-
+89,4.09,Two or more data types in declaration of,-
+90,4.10,Two or more data types in declaration of,-
+91,4.11,Two or more data types in declaration of,-
+92,4.12,Two or more data types in declaration of,-
+93,5.01,"Ошибка, coparison between pointer",-
+94,5.02,Переполнение,-
+95,5.03,Переполнение,-
+96,5.04,Comparison is always o dye to limited range of data type,-
+97,5.05,Ok,+
+98,5.06,Subsripted value is neithen array nor pointer,-
+99,5.07,assingnment makes integer from pointer without a cast parse,-
+100,5.08,a - undeclaration,+
+101,5.09,"incompatible types is assigment, ошибка 1",+
+102,5.10,Ok,+
+103,5.11,Return type defaults to int,+
+104,5.12,s - undeclaration,-
+105,5.13,Pi – used prior to declaration,+
+106,5.14,Ok  uni      ,+
+107,5.15,Ok no uni     ,+
+108,5.16,String of character constant,-
+109,5.17,String of character constant,-
+110,5.18,Ok(2),+
+111,5.19,declaration of “i”,-
+112,5.20,Ок,+
+113,5.21,False,-
+114,5.22,Ok,+
+115,5.23,Ok(2),+
+116,5.24,Ok,+
+117,5.25,Ok,+
+118,6.02,Ok(2),"q, t might be used uninitializein this fuction"
+119,6.03,Ok,+
+120,6.04,Ok(4),+
+121,6.05,Ok(5),+
+122,6.06,Ok(2),+
+123,6.07,Ok(6),+
+124,6.08,Ok(5),+
+125,6.09,Ok(5),+
+126,6.10,Ok(4),+
+127,6.11,Ok(5),+
+128,6.12,Ok(5),+
+129,6.13,,+
+130,6.14,"Ok, Ok",Висит 
+131,6.15,False(4) ,+
+132,6.16,Ok(3),-
+133,6.17,Ok(3),+
+134,6.18,Ok,+
+135,6.19,False,+
+136,6.20,Ok,-
+137,7.01,Ok,+
+138,7.02,Ok,+
+139,7.03,Ok(3),+
+140,7.04,Ok(4),+
+141,7.05,Ok(2),+
+142,7.06,Ok(6),+
+143,7.07,Ok(4),+
+144,7.08,Ok(2),+
+145,7.09,Ok(5),+
+146,7.10,Ok(4),+
+147,7.11,Ok(2),+
+148,7.12,Ok(5),+
+149,7.13,Ok(4),+
+150,7.14,Ok(2),+
+151,7.15,Ok(5),+
+152,7.16,Ok(4),+
+153,7.17,Ok(2),+
+154,7.18,Ok(5),+
+155,7.19,Ok(4),+
+156,7.20,Ok(2),+
+157,7.21,Ok(5),+
+158,7.22,Ok(5),+
+159,7.23,Ok(5),+
+160,7.24,Two or more data types in declaration of,-
+161,7.25,Ok(5),+
+162,7.26,Two or more data types in declaration of,-
+163,7.27,False(3),+
+164,7.28,False(3),+
+165,7.29,False(3),+
+166,7.30,"Ok, False(2)",+
+167,7.31,False(3),+
+168,7.32,False(3),+
+169,7.33,Ok,+
+170,7.34,Ok,+
+171,7.35,Ok,+
+172,7.36,Ok,+
+173,7.37,Ok,+
+174,7.38,Ok,+
+175,7.39,Ok(2),+
+176,7.40,Ok(2),+
+177,7.41,Ok(2),+
+178,7.42,Ok(2),+
+179,7.43,False(2),-
+180,7.44,Ok(3),+
+181,7.45,Ok(3),+
+182,7.46,Ok(3),+
+183,7.47,Ok(3),+
+184,7.48,Ok(2),+
+185,7.49,Ok(4),+
+186,7.50,Ok(4),+
+187,8.02,Ok(4),Two or more data types in declaration of
+188,8.03,Ok(2),+
+189,8.04,Ok(4),+
+190,8.05,Ok(2),+
+191,8.06,Ok(4),+
+192,8.07,Ok(4),+
+193,8.08,_Bool - undeclaration ,+
+194,8.09,"Ok, Ok",-
+195,8.10,Ok(2),+
+196,8.11,"False, False",+
+197,8.12,"Ok, False",-
+198,8.13,"Ok, False",+/-
+199,8.14,Ok(3),+/-
+200,8.15,Ok(2),+
+201,8.16,Ok(2),+
+202,8.17,Ok(2),+
+203,8.18,Ok(2),+
+204,8.19,Two or more data types in declaration of,+
+205,8.20,Two or more data types in declaration of,-
+206,8.21,Two or more data types in declaration of,-
+207,8.22,Two or more data types in declaration of,-
+208,8.23,Two or more data types in declaration of,-
+209,8.24,Two or more data types in declaration of,-
+210,8.25,Two or more data types in declaration of,-
+211,8.26,Two or more data types in declaration of,-
+212,8.27,Two or more data types in declaration of,-
+213,8.28,Two or more data types in declaration of,-
+214,8.29,Two or more data types in declaration of,-
+215,9.01,Two or more data types in declaration of,-
+216,9.02,Two or more data types in declaration of,-
+217,9.03,Two or more data types in declaration of,-
+218,9.04,Ok(8),+
+219,9.05,Ok(8),+
+220,9.06,Ok(8),+
+221,9.07,"Ok, False",+/-
+222,9.08,Two or more data types in declaration of,-
+223,9.09,li undeclaration,-
+224,9.10,Invalid lvalue in assignmount,-
+225,9.11,Ok (8),+
+226,9.12,Invalid lvalue in assignmount,-
+227,9.13,Two or more data types in declaration of,-
+228,10.02,Ok,“_”- undeclaration
+229,10.03,"FILE – undeclaration, fp - undeclaration",+
+230,10.04,"Ok, Ok",-
+231,10.05,,+
+232,10.06,Ok(2),-
+233,10.07,Invalid lvalue in increment,+
+234,10.08,"Parse error defore “,”",+
+235,10.09,Parse error defore “=”,+
+236,10.10,Ok,+
+237,10.11,Ok,+
+238,10.12,Nondigits is number and  not hexadecimal parse error,+
+239,11.01,Ok(4),+
+240,11.02,Ok(4),+
+241,11.03,Ok(8),+
+242,11.04,Ok,+
+243,11.05,False,-
+244,11.06,Numeric conctant contains digits beyond the radix,+
+245,11.07,Ok,+
+246,11.08,Numeric conctant contains digits beyond the radix,+
+247,11.09,Ok,+
+248,11.10,Ok(3),+
+249,11.11,Ok,+
+250,11.12,Ok(2),+
+251,11.13,Parser error before “/”,+
+252,11.14,Invalid lvalue in increment,+
+253,11.15,Invalid lvalue in increment,+
+254,11.16,Ok(2),+
+255,11.17,Ok(3),+
+256,11.18,Ok(2),+
